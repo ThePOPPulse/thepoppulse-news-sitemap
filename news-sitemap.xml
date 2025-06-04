@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://www.thepoppulse.space/2025/06/philippine-arenas-best-concerts-of-all.html</loc>
+    <loc>https://thepoppulse.space/2025/06/philippine-arenas-best-concerts-of-all.html</loc>
     <news:news>
       <news:publication>
-                <news:name>The POP Pulse</news:name>
-               <news:language>en</news:language>
+        <news:name>The POP Pulse</news:name>
+        <news:language>en</news:language>
       </news:publication>
-         <news:publication_date>2025-06-04</news:publication_date>
-         <news:title>Philippine Arena’s Best Concerts of All Time: SB19, Coldplay, Blackpink & More</news:title>
+      <news:publication_date>2025-06-04</news:publication_date>
+      <news:title>Philippine Arena's Best Concerts of All Time: SB19, Coldplay, Blackpink + More</news:title>
     </news:news>
   </url>
 </urlset>
